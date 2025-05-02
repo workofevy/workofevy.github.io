@@ -1,6 +1,6 @@
 # the work of evy v. ray
 
-first name last name ray   
+first name **evy** last name **ray**  
 new york city   
 cooper union school of art 2028   
 
