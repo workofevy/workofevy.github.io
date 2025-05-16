@@ -6,4 +6,4 @@ cooper union school of art 2028
 
 i make art. i like apples and giraffes.   
   
-(click here) 
+(click here) [workofevy/github.io/Portfolio] to see the work i did for intro to techniques spg 25
